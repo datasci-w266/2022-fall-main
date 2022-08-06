@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+**/*.pyc
+**/__pycache__
+**/tf_summaries/
+**/AUTH_TOKEN
+**/data/

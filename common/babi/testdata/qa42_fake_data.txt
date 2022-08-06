@@ -1,0 +1,6 @@
+1 Foo bar baz .
+2 This is the second sentence .
+3 What is a baz ?	Foo	1
+1 Spam and eggs .
+2 Eggs and spam .
+3 What goes with eggs ?	Spam	1 2
