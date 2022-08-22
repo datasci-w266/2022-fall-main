@@ -1,0 +1,120 @@
+## Do not modify the format of this file.
+#  (If you are curious, it is YAML format which lets us efficiently get everyone's answers
+#   in one central spreadsheet so we can quickly grade them.)
+
+## The goal of this file is twofold:
+#  1.  Allow us to line up the GitHub repository with our enrollment data from UC Berkeley.
+#  2.  Allow us to spend our first live session talking about neural networks instead of
+#      course policy, while still being confident everyone has read the syllabus.
+
+# Replace the next two lines with your name.
+last_name: Lastname
+first_name: FirstName
+
+# Replace the next line with your Berkeley email address.
+# We use it to give you access to the grading sheet.  It *must* be @berkeley.edu.
+# See the assignment instructions on how to get one if you don't have one already!
+email: placeholder@berkeley.edu
+
+## Read the following thoroughly:
+#  - syllabus/README.md
+#  - project/README.md 
+#  - assignments/README.md
+
+# 1.  What are the main components of your grade in this class?
+# (Delete the incorrect answers.)
+
+main_components:
+  - Term project
+  - Midterm examination
+  - Assignments
+  - Participation
+  - Final examination
+
+# 2.  What are the three graded components of the project?
+# (Delete the incorrect answers.)
+
+project_components:
+  - Proposal
+  - Presentation
+  - Office hour proposal discussions
+  - Milestone
+  - Final report
+
+# 3. How many late days can you use over the semester?
+# (Replace the 0 with the right answer.)
+late_days: 0
+
+# 4. How many late days can you use on a single assignment?
+# (Replace the 0 with the right answer.)
+late_days_per: 0
+
+# 5. If you run out of late days, and hand it in 12 hours after the deadline,
+#    how much is your grade reduced on that assignment?
+# (Replace the 0 with the right answer.)
+late_penalty: 0%age points
+
+# 7. 48 hours after the deadline, what is the maximum assignment grade?
+# (Replace the 0 with the right answer.)
+past_hard_deadline_grade: 0
+
+# 8. Which of the following are appropriate places to ask questions that other students may be interested in?
+# (Delete the incorrect answers.)
+general_questions:
+  - Public post on Piazza
+  - Private post on Piazza addressed to all instructors so they can load balance
+  - Private post on Piazza addressed to your live session instructor
+  - Instructor email list
+  - Your live session instructor's berkeley email address
+
+# 9. Which of the following are appropriate places to ask questions that cannot be made
+#    public (e.g. ones that contain assignment solutions?)
+# (Delete the incorrect answers.)
+private_questions:
+  - Public post on Piazza
+  - Private post on Piazza addressed to all instructors so they can load balance
+  - Private post on Piazza addressed to your live session instructor
+  - Instructor email list
+  - Your live session instructor's berkeley email address
+
+# 10. If you need something beyond the late day policy, what do you do?
+# (Delete the incorrect answers.)
+beyond_late_days:
+  - Email the instructor mailing list, and cc student support as early as possible,
+    even if you aren't completely sure you'll need anything.
+  - Ask on Piazza
+  - Wait until the most dire consequences are upon you before mentioning anything
+
+# 11. Where do you find out which async to watch each week?
+# (Delete the incorrect answers.)
+async_source:
+  - The "Async to watch" column in the syllabus
+  - Watch "Unit x" while preparing for "Week x"'s live session.
+  - Ask on Piazza
+  - I don't watch async.
+
+# 12. This course isn't known as a super easy class and I should be cautious about taking it
+#     in conjunction with:
+# (Delete the incorrect answers.)
+competing_worries:
+  - Major work deadlines
+  - Capstone
+  - MIDS 261
+
+# 13. The grade distribution in this course has historically been
+# approximately (despite most students working really hard!):
+# (Replace the 0s with the correct values.)
+grade_A: 0%
+grade_A-: 0%
+grade_B+: 0%
+grade_B: 0%
+
+# 14. I would rather:
+# (Keep the one you agree with most.. no right answer here, this is us experimenting with the course and appreciate your feedback!)
+logistics_approach:
+  - Spend the first live session going over this in detail
+  - Read it on my own, do this quiz, and spend live session time on course material, knowing I can ask questions on Piazza and in Live Session as necessary
+
+# 15. "But I really wanted to say something more nuanced on the previous question!"
+#     Here's your chance!
+additional_logistics_comments: Put that text here!

@@ -31,7 +31,7 @@ By the completion of this course, students will be able to:
 
 **Communication and Resources**
 * Course website: [GitHub datasci-w266/2022-fall-main](../../../)
-* [Ed Discussion](https://edstem.org): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
+* [Ed Discussion](https://edstem.org/us/join/a9M6fE): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
 * Email list for course staff (expect a somewhat slower response here): [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)
 
 
@@ -40,8 +40,9 @@ By the completion of this course, students will be able to:
 * Section 2: Wednesday 4 - 5:30pm PST (Natalie Ahn) 
 * Section 3: Tuesday 4 - 5:30pm PST (Daniel Cer)
 * Section 4: Wednesday 4 - 5:30pm PST (Mark Butler)
+* Section 5: Monday 6:30 - 8pm PST (Jennifer Zhu) 
 * Section 6: Wednesday 6:30 - 8pm PST (Mike Tamir/Paul Spiegelhalter)
-* Section 5: TBD (Jennifer Zhu) 
+
 
 **Teaching Staff Office Hours**
 
@@ -49,10 +50,10 @@ By the completion of this course, students will be able to:
 * **Jennifer Zhu**: Tuesday at 5:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
 * **Natalie Ahn**: Tuesday at 4pm PST
-* **Peter Grabowski**: Thursday immediately after his live session
+* **Peter Grabowski**: Tuesday immediately after his live session
 * **Mark Butler**: Friday at 5pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
-* **Rajiv Nair**: Saturday at 9am PST
+* **Rajiv Nair**: Monday at 5pm PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -118,7 +119,7 @@ Office hours are for the whole class; students from any section are welcome to a
   <td><strong>Multimodal NLP</strong></td>
   <td>Oct&nbsp;22</td>
   <td>Nov&nbsp;6</td>
-  <td>15%</td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>
@@ -127,7 +128,7 @@ Office hours are for the whole class; students from any section are welcome to a
   <td><strong><a href="../project" target="_blank">Final Project Guidelines</a></strong></td>
   <td></td>
   <td>Dec&nbsp;3</td>
-  <td>50%</td>
+  <td>55%</td>
 </tr>
 </table>
 
@@ -252,7 +253,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* Assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com)]
+### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1BYQkr1K6V2Ztr8g-zyOYAPkjv7xMutKO?usp=sharing)]
 
 ### Deliverables
 
@@ -331,6 +332,7 @@ will be released around the last live session of the week and due approximately 
   <li>Skim: <a href="http://www.nltk.org/book/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
   <li><em>Optional:</em> <a href="http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2" target="_blank">The Interpreter (New Yorker)</a>
   <li><em>Optional:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
+  <li><em>Optional:</em> <a href="https://jalammar.github.io/illustrated-word2vec/" target="_blank">The Illustrated Word2Vec</a>
       <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
   </ul>
   <!-- <p>                                        -->
@@ -516,8 +518,9 @@ will be released around the last live session of the week and due approximately 
   <td><ul>
   <li>Read: <a href="http://static.googleusercontent.com/media/research.google.com/en//archive/googlecluster-ieee.pdf" target="_blank">Web Search for a Planet</a> (Google)
   <li>Read: <a href="http://infolab.stanford.edu/~backrub/google.html" target="_blank">The Anatomy of a Large-Scale Hypertextual Web Search Engine</a>
+  <li>Skim: <a href="https://arxiv.org/pdf/1907.04307.pdf" target="_blank"> Multilingual Universal Sentence Encoder for Semantic Retrieval</a>
   <li><em>Skim:</em> <a href="http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf" target="_blank">"An Introduction to Information Retrieval", sections 6.2 and 6.3</a>
-  <li><em>Optional:</em> <a href="http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf" target="_blank">PageRank</a> (Page, et al. 1999)
+  <li><em>Optional:</em> <a href="http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf" target="_blank">PageRank</a> (Page, et al. 1999) 
   </ul>
   <p>
   </td>
@@ -540,7 +543,8 @@ will be released around the last live session of the week and due approximately 
   <li>Visual Question Answering
   </ul></td>
   <td><ul>
-	<li>TBD
+	<li>Read: <a href="https://arxiv.org/pdf/1411.4555.pdf" target="_blank">Show and Tell: A Neural Image Caption Generator</a> (Vinyals et. al. 2014)
+	<li>Read: <a href="https://arxiv.org/pdf/2103.00020.pdf" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a> (Radford et. al 2021)
   </ul>
   <p>
   </td>
@@ -585,6 +589,7 @@ will be released around the last live session of the week and due approximately 
   <li>Infrastructure
   <li>Metrics
   <li>Failure Modes
+  <li>NLP Review
   </ul></td>
   <td><ul>
 	<li>TBD
