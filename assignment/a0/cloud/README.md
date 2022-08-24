@@ -41,7 +41,7 @@ Configure and Start your Compute Engine instance
 
 ![Create instance](screenshots/6-createinstance.png "Create instance")
 
-*  Before clicking "Create", be absolutely sure that you have increased the disk space to 50 to 100 GB and have selected Ubuntu as your OS (the setup script that you'll run in a later step may not work otherwise).  Also make sure you have selected the Standard Persistent Disk.
+*  Before clicking "Create", be absolutely sure that you have increased the disk space to 50 to 100 GB and have selected Ubuntu as your OS (the setup script that you'll run in a later step may not work otherwise).  Also make sure you have selected the Standard Persistent Disk.  Finally, the Ubuntu image should be the x86 version because this is an Intel based chip.  If you inadvertenlty choose the AMD version you will get an error when you try to create the instance.
 
 ![Check Boot Disk](screenshots/6.5-bootdisk.png "Check Boot Disk")
 *  Click "Create" at the bottom of the form.  You may need to wait a minute or two for your N1 instance to boot.

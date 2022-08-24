@@ -49,7 +49,7 @@ By the completion of this course, students will be able to:
 * **Daniel Cer**: Monday at noon PST
 * **Jennifer Zhu**: Tuesday at 5:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Natalie Ahn**: Tuesday at 4pm PST
+* **Natalie Ahn**: Wednesday at 6pm PST
 * **Peter Grabowski**: Tuesday immediately after his live session
 * **Mark Butler**: Friday at 5pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
