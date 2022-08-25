@@ -138,8 +138,6 @@ Your assignment grade report can be found at [https://w266grades.appspot.com](ht
 
 ### General Grading Philosophy
 
-We curve the numerical grade to a letter grade.  While we don't release the curve, it usually results in about a quarter of the class each receiving A, A-, B+, and B.  Exceptional cases receive A+, C, or F, as appropriate.
-
 A word of warning:  Given that we (effectively) release solutions to some parts of assignments in the form of unit tests, it shouldn't be surprising that most students earn high scores.  Since the variance is so low, assignment scores aren't the primary driver of the final letter grade for most students.  A good assignment score is necessary but not sufficient for a strong grade in the class.  A well-structured, novel project with good analysis is what makes the difference between a high B/B+ and an A-/A.
 
 As mentioned above, this course is a lot of work.  Give it the time it deserves and you'll be rewarded intellectually and on your transcript.
