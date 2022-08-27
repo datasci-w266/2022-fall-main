@@ -1,0 +1,111 @@
+# Write your short answers in this file, replacing the placeholders as appropriate.
+# This assignment consists of 2 parts for a total of 32 points.
+# For numerical answers, copy and paste at least 5 significant figures.
+# - Neural Network Basics (22 points)
+# - TensorFlow (10 points)
+
+
+
+###################################################################
+###################################################################
+## Neural Network Basics (22 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (A): Linear and Logistic Regression (2 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1.1 (/1): What are the dimensions of W?  (Hint... don't change the dimensionality of the answer.)
+neural_network_basics_a_1_1: [d0]
+
+# Question 1.2 (/1): What are the dimensions of b?  (Hint... don't change the dimensionality of the answer.)
+neural_network_basics_a_1_2: [d0]
+
+
+# ------------------------------------------------------------------
+# | Section (B): Batching (4 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/1): What are the dimensions of W?
+neural_network_basics_b_1: [d0]
+
+# Question 2 (/1): What are the dimensions of b?
+neural_network_basics_b_2: [d0]
+
+# Question 3 (/1): What are the dimensions of x?
+neural_network_basics_b_3: [d0, d1]
+
+# Question 4 (/1): What are the dimensions of z?
+neural_network_basics_b_4: [d0]
+
+
+# ------------------------------------------------------------------
+# | Section (C): Logistic Regression NumPy Implementation (4 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/2): What is the probability of the positive class for [0, 0, 0, 0, 5]?
+neural_network_basics_c_1: 0.00000
+
+# Question 2 (/2): What is the cross entropy loss (Base 2) if the second example is positive?
+neural_network_basics_c_2: 0
+
+
+# ------------------------------------------------------------------
+# | Section (D): NumPy Feed Forward Neural Network (4 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/2): What is the probability of the third example in the batch?
+neural_network_basics_d_1: 0.00000
+
+# Question 2 (/2): What is the cross-entropy loss if its label is negative?
+neural_network_basics_d_2: 0.00000
+
+
+# ------------------------------------------------------------------
+# | Section (E): Softmax (8 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/2): What is the probability of the middle class?
+neural_network_basics_e_1: 0.00000
+
+# Question 2 (/2): What is the cross-entropy loss if the correct class is the last (z=3)?
+neural_network_basics_e_2: 0.00000
+
+# Question 3.1 (/2): What is the dimension of W3 above if it were a three class problem instead of a binary one?
+neural_network_basics_e_3_1: [d0, d1]
+
+# Question 3.2 (/2): What is the dimension of b3 above if it were a three class problem?
+neural_network_basics_e_3_2: [d0]
+
+
+
+###################################################################
+###################################################################
+## TensorFlow (10 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (1): Binary Classifier (10 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/2): What's the derivative of a relu(z) with respect to z if z = -5?
+tensorflow_1_1: 0
+
+# Question 2 (/2): What's the derivative of relu(z) with respect to z if z = 5
+tensorflow_1_2: 0
+
+# Question 3 (/2): Why do you still use a sigmoid at the top of the binary classification network?
+# (This question is multiple choice.  Delete all but the correct answer).
+tensorflow_1_3: 
+ - Its range matches what is allowed for a probability.
+ - Sigmoid is convenient, but you lose nothing by using a Relu or Tanh
+
+# Question 4 (/2): What is the minimum number of hidden layers with the same numer of neurons in each you can get away with and still achieve the desired loss on the training set?
+tensorflow_1_4: 0
+
+# Question 5 (/2): What is the smallest number of neurons you can use in a layer in the network with the largest number of layers and still get the desired loss on the training set?
+tensorflow_1_5: 0
