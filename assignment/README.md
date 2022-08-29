@@ -9,7 +9,7 @@ you are stuck, please reach out on Piazza!
 
 ### Weighting
 
-Assignments are weighted equally.
+Assignments have different weights. See [course evaluation portion of syllabus](https://github.com/datasci-w266/2022-fall-main/blob/master/syllabus/README.md#course-evaluation).
 
 ### Collaboration policy
 
@@ -40,6 +40,7 @@ Please do your work in a `git` repository; you can simply clone the course repo
 to get started. If there are any updates or fixes to the assignment, we'll 
 update the master repo and you can patch your client with `git pull`.  Be sure
 to use the assignment submit script (see Assignment 0 for instructions) to submit.
+
 **Do not** make pull requests on the course repo!
 
 Be sure to **`submit.sh`** often to save your work!
