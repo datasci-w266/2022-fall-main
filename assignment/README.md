@@ -9,7 +9,7 @@ you are stuck, please reach out on Piazza!
 
 ### Weighting
 
-Assignments have different weights.See https://github.com/datasci-w266/2022-fall-main/blob/master/syllabus/README.md#course-evaluation.
+Assignments are weighted equally.
 
 ### Collaboration policy
 
