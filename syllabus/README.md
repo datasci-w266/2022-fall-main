@@ -47,7 +47,7 @@ By the completion of this course, students will be able to:
 **Teaching Staff Office Hours**
 
 * **Daniel Cer**: Monday at noon PST
-* **Jennifer Zhu**: Tuesday at 5:30pm PST
+* **Jennifer Zhu**: Thursday at 6:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Peter Grabowski**: Tuesday immediately after his live session
