@@ -1,0 +1,116 @@
+# Write your short answers in this file, replacing the placeholders as appropriate.
+# This assignment consists of 1 parts for a total of 71 points.
+# For numerical answers, copy and paste at least 5 significant figures.
+# - Neural Network Text Classification (71 points)
+
+
+
+###################################################################
+###################################################################
+## Neural Network Text Classification (71 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (2): Classification with various Word2Vec-based Models (2 points)  | 
+# ------------------------------------------------------------------
+
+# Question 2.a (/1): What is the percentage of positive examples in the training set (e.g. 72% is 0.72)?
+neural_network_text_classification_2_2_a: 
+- your answer
+
+# Question 2.b (/1): What is the percentage of positive examples in the test set (e.g. 72% is 0.72)?
+neural_network_text_classification_2_2_b: 
+- your answer
+
+
+# ------------------------------------------------------------------
+# | Section (2.1): The Role of Shuffling of the Training Set (6 points)  | 
+# ------------------------------------------------------------------
+
+# Question 2.1.a (/3): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed after 10 epochs?
+neural_network_text_classification_2_1_2_1_a: 0
+
+# Question 2.1.b (/3): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the shuffled run after 10 epochs?
+neural_network_text_classification_2_1_2_1_b: 0
+
+
+# ------------------------------------------------------------------
+# | Section (2.2): DAN vs Weighted Averaging Models using Attention (20 points)  | 
+# ------------------------------------------------------------------
+
+# Question 2.2.1.a (/2): Calculate the context vector for the following query and key/value vectors.
+neural_network_text_classification_2_2_2_2_1_a: [d0, d1, d2]
+
+# Question 2.2.1.b (/2): What are the weights for the key/value vectors?
+neural_network_text_classification_2_2_2_2_1_b: [d0, d1]
+
+# Question 2.2.2.a (/10): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the wan training after 10 epochs?
+neural_network_text_classification_2_2_2_2_2_a: 0
+
+# Question 2.2.2.b (/3): List the 5 most important words separated by commas. (Again, if a word appears twice, note it twice.)
+neural_network_text_classification_2_2_2_2_2_b: [d0, d1, d2, d3, d4]
+
+# Question 2.2.2.c (/3): List the 5 least important words separated by commas. (Again, if a word appears twice, note it twice.)
+neural_network_text_classification_2_2_2_2_2_c: [d0, d1, d2, d3, d4]
+
+
+# ------------------------------------------------------------------
+# | Section (2.3): Approaches for Training of Embeddings (9 points)  | 
+# ------------------------------------------------------------------
+
+# Question 2.3.a (/3): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the static model after 10 epochs?
+neural_network_text_classification_2_3_2_3_a: 0
+
+# Question 2.3.b (/3): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the model where you initialized with word2vec vectors but allow them to retrain for 3 epochs?
+neural_network_text_classification_2_3_2_3_b: 0
+
+# Question 2.3.c (/3): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the model where you initialized randomly and then trained?
+neural_network_text_classification_2_3_2_3_c: 0
+
+
+# ------------------------------------------------------------------
+# | Section (3): Classification with BERT (34 points)  | 
+# ------------------------------------------------------------------
+
+# Question 3.1.a (/1): Why do the attention_masks have 4 and 1 zeros, respectively?
+# (This question is multiple choice.  Delete all but the correct answer).
+neural_network_text_classification_3_3_1_a: 
+ - For the first example the last four tokens belong to a different segment. For the second one it is only the last token.
+ - For the first example 4 positions are padded while for the second one it is only one.
+
+# Question 3.1.b (/1): How many outputs are there?
+neural_network_text_classification_3_3_1_b: 
+- your answer
+
+# Question 3.1.c (/1): Which output do we need to use to get token-level embeddings?
+# (This question is multiple choice.  Delete all but the correct answer).
+neural_network_text_classification_3_3_1_c: 
+ - the first
+ - the second
+
+# Question 3.1.d (/2): Which token number corresponds to 'bank' in the first sentence?
+neural_network_text_classification_3_3_1_d: 
+- your answer
+
+# Question 3.1.e (/2): Which token number corresponds to 'bank' in the second sentence?
+neural_network_text_classification_3_3_1_e: 
+- your answer
+
+# Question 3.1.f (/3): What is the cosine similarity between the BERT outputs for the two occurences of 'bank' in the two sentences?
+neural_network_text_classification_3_3_1_f: 
+- your answer
+
+# Question 3.1.g (/3): How does this relate to the cosine similarity of 'this' (sentence 1) and 'the' (sentence 2). Compute the cosine similarity.
+neural_network_text_classification_3_3_1_g: 
+- your answer
+
+# Question 3.2.a (/7): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the [CLS]-classification model after training for 2 epochs?
+neural_network_text_classification_3_3_2_a: 0
+
+# Question 3.3.a (/7): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the BERT-averaging-classification model after training for 2 epochs?
+neural_network_text_classification_3_3_3_a: 0
+
+# Question 3.4.a (/7): What (in percent (e.g. 0.651 = 65.1)) is the highest validation accuracy that you observed for the BERT-CNN-classification model after 2 epochs?
+neural_network_text_classification_3_3_4_a: 0
