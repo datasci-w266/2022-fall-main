@@ -1,0 +1,161 @@
+# Write your short answers in this file, replacing the placeholders as appropriate.
+# This assignment consists of 3 parts for a total of 62 points.
+# For numerical answers, copy and paste at least 5 significant figures.
+# - Multiclass Text Classification (42 points)
+# - Summarization Test (12 points)
+# - Question Answering Test (8 points)
+
+
+
+###################################################################
+###################################################################
+## Multiclass Text Classification (42 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (2): Classification with a fine tuned BERT model (20 points)  | 
+# ------------------------------------------------------------------
+
+# Question 2.1 (/5): How many trainable parameters are in your dense hidden layer?
+multiclass_text_classification_2_2_1: 
+- your answer
+
+# Question 2.2 (/5): How many trainable parameters are in your classification layer?
+multiclass_text_classification_2_2_2: 
+- your answer
+
+# Question 2.3 (/5): What is the Test accuracy score you get from your model with a batch size of 8?
+multiclass_text_classification_2_2_3: 
+- your answer
+
+# Question 2.4 (/5): What is the macro average f1 score you get from the classification report for batch size 8?
+multiclass_text_classification_2_2_4: 
+- your answer
+
+
+# ------------------------------------------------------------------
+# | Section (3): Classification with some preprocessed data and the BERT model (10 points)  | 
+# ------------------------------------------------------------------
+
+# Question 3.1 (/5): What is the test accuracy you get when you run the cleaned model with batch size 8?
+multiclass_text_classification_3_3_1: 
+- your answer
+
+# Question 3.2 (/5): What is the weighted avg F1 score in the classification when you run the cleaned model with batch size of 8?
+multiclass_text_classification_3_3_2: 
+- your answer
+
+
+# ------------------------------------------------------------------
+# | Section (4): Try again with a different mini batch size (12 points)  | 
+# ------------------------------------------------------------------
+
+# Question 4.1 (/5): What is the Test accuracy you get when you run the cleaned model with batch size 16?
+multiclass_text_classification_4_4_1: 
+- your answer
+
+# Question 4.2 (/5): Which category is consistenly underperforming in both the classification reports and the confusion matrices?
+# (This question is multiple choice.  Delete all but the correct answer).
+multiclass_text_classification_4_4_2: 
+ - comp.windows.x
+ - rec.sport.baseball
+ - sci.med
+ - soc.religion.christian
+ - talk.religion.misc
+
+# Question 4.3 (/2): The training data set is evenly distributed across all of the categories (True or False)?
+multiclass_text_classification_4_4_3: False
+
+
+
+###################################################################
+###################################################################
+## Summarization Test (12 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (1): T5 for summarization (4 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1.1 (/1): What num_beams value gives you the most readable output?
+summarization_test_1_1_1: 
+- your answer
+
+# Question 1.2 (/1): Which no_repeat_ngram_size gives the most readable output?
+summarization_test_1_1_2: 
+- your answer
+
+# Question 1.3 (/1): What min_length value gives you the most readable output?
+summarization_test_1_1_3: 
+- your answer
+
+# Question 1.4 (/1): Which max_length value gives the most readable output?
+summarization_test_1_1_4: 
+- your answer
+
+
+# ------------------------------------------------------------------
+# | Section (2): Pegasus for summarization (4 points)  | 
+# ------------------------------------------------------------------
+
+# Question 2.1 (/1): What num_beams value gives you the most readable output?
+summarization_test_2_2_1: 
+- your answer
+
+# Question 2.2 (/1): Which no_repeat_ngram_size gives the most readable output?
+summarization_test_2_2_2: 
+- your answer
+
+# Question 2.3 (/1): What min_length value gives you the most readable output?
+summarization_test_2_2_3: 
+- your answer
+
+# Question 2.4 (/1): Which max_length value gives the most readable output?
+summarization_test_2_2_4: 
+- your answer
+
+
+# ------------------------------------------------------------------
+# | Section (3): BART for conditional generation (4 points)  | 
+# ------------------------------------------------------------------
+
+# Question 3.1 (/1): What num_beams value gives you the most readable output?
+summarization_test_3_3_1: 
+- your answer
+
+# Question 3.2 (/1): Which no_repeat_ngram_size gives the most readable output?
+summarization_test_3_3_2: 
+- your answer
+
+# Question 3.3 (/1): What min_length value gives you the most readable output?
+summarization_test_3_3_3: 
+- your answer
+
+# Question 3.4 (/1): Which max_length value gives the most readable output?
+summarization_test_3_3_4: 
+- your answer
+
+
+
+###################################################################
+###################################################################
+## Question Answering Test (8 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (1): T5 for Question Answering (8 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1.1a (/4): What is the first sentence that returns the correct answer at least 7 out of 10 times? Write your answer in the answer slot.
+question_answering_test_1_1_1a: 
+- your answer
+
+# Question 1.1b (/4): What is the second sentence that returns the correct answer at least 7 out of 10 times? Write your answer in the answer slot.
+question_answering_test_1_1_1b: 
+- your answer
