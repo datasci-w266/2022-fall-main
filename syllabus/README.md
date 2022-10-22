@@ -117,7 +117,7 @@ Office hours are for the whole class; students from any section are welcome to a
   <!-- <strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>  -->
   Assignment&nbsp;4
   <td><strong>Multimodal NLP</strong></td>
-  <td>Oct&nbsp;22</td>
+  <td>Oct&nbsp;21</td>
   <td>Nov&nbsp;6</td>
   <td>10%</td>
 </tr>
@@ -315,6 +315,16 @@ will be released around the last live session of the week and due approximately 
   </ul></td>
   <td>Sep&nbsp;30</td>
   <td>Oct&nbsp;16</td>
+</tr>
+
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Image Captioning
+  </ul></td>
+  <td>Oct&nbsp;21</td>
+  <td>Nov&nbsp;6</td>
 </tr>
 
 <tr><!--- Project Reports -->
